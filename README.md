@@ -1,0 +1,2 @@
+## Game Overview
+Dice Clash is a multiplayer dice game that combines luck and strategy. Players roll two dice simultaneously, and the player with the higher total wins. With unique abilities, various themes, and engaging gameplay, Dice Clash offers an unforgettable gaming experience.
